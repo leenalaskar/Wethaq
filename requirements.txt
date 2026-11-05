@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+requests
+google-generativeai
+reportlab
+arabic-reshaper
+python-bidi
+openai
